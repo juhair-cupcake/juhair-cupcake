@@ -1,8 +1,8 @@
 ```
-       _,dO=mo,_                  |
-    _/MMOMMMMMMMm,                | I make creative shit!
-   0YMMMMMMMMMMMMm(               |
-  `MMMMMM/        |               |
+       _,dO=mo,                  |
+    _/MMOMMMMMMm,                | Computer Wizard!
+   0YMMMMMMMMMMMm(               | I make creative shit!
+  `MMMMMM/       {               |
    OMM|  __    __/                |
    }MM/_/# \__/# \                |
    (.   \__/  \__/                |
