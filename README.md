@@ -2,7 +2,7 @@
        _,dO=mo,       |
     _/MMOMMMMMMm,     ! I'm
    0YMMMMMMMMMMMm(    | Computer Wizard.
-  `MMMMMM/       {    | make creative shit!
+  `MMMMMM/       {    I make creative shit!
    OMM|  __    __/    |
    }MM/_/# \__/# \    |
    (.   \__/  \__/    !
