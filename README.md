@@ -10,7 +10,7 @@
 _____/\     _   /     |
     \  `._____,'       |
      `..___(__        | Software Engineer
-              ``-.    | Creatative Developer
+              ``-.    | Creative Developer
    ___       _           _
   |_  |     | |         (_)
     | |_   _| |__   __ _ _ _ __
