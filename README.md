@@ -1,6 +1,6 @@
 ```
        _,dO=mo,       |
-    _/MMOMMMMMMm,     ! I'm
+    _/MMOMMMMMMm,     ! I'm a
    0YMMMMMMMMMMMm(    | Computer Wizard.
   `MMMMMM/       {    I make creative shit!
    OMM|  __    __/    |
